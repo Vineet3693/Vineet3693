@@ -4,10 +4,10 @@
 **Vineet3693/Vineet3693** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Colorful SVG Banner -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Vineet%20Gupta%20👋&width=900&height=200" alt="Vineet Gupta Banner"/>
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Vineet%20Gupta%20👋&width=900&height=200" alt="Vineet Yadav Banner"/>
 </p>
 
-<h2 align="center">Hi there, I'm <span style="color: rgb(0, 176, 255);">Vineet Gupta</span>! 🚀</h2>
+<h2 align="center">Hi there, I'm <span style="color: rgb(0, 176, 255);">Vineet Yadav</span>! 🚀</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E"/>
