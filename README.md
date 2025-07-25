@@ -1,3 +1,85 @@
+<!-- Animated Names with Fire Effect and Different Styles for Data Analyst, Data Science, and AI/ML -->
+
+<!-- Data Analyst: Flickering Orange Fire Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1000&color=FF9900&background=11111100&center=true&width=700&lines=🔥+DATA+ANALYST+🔥" alt="Data Analyst Animated Fire Name"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vineet3693/Vineet3693/main/assets/fire-underline-orange.svg" width="400" alt="Fire Underline Orange"/>
+</p>
+
+<!-- Data Science: Blue Fire Animation with Neon Glow -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&weight=700&size=36&duration=3500&pause=1000&color=00FFFF&background=11111100&center=true&width=700&lines=🔥+DATA+SCIENCE+🔥" alt="Data Science Animated Blue Fire Name"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vineet3693/Vineet3693/main/assets/fire-underline-blue.svg" width="400" alt="Fire Underline Blue"/>
+</p>
+
+<!-- AI/ML: Rainbow Fire Animation with Futuristic Font -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3500&pause=1000&color=FF00D0&background=11111100&center=true&width=700&lines=🔥+AI%2FML+🔥" alt="AI/ML Animated Fire Name"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vineet3693/Vineet3693/main/assets/fire-underline-rainbow.svg" width="400" alt="Fire Underline Rainbow"/>
+</p>
+
+---
+
+<!-- Instructions for Custom Fire SVGs (save these in your assets folder) -->
+<!-- 
+fire-underline-orange.svg example:
+<svg width="400" height="30" viewBox="0 0 400 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fire-orange" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFD700" />
+      <stop offset="60%" stop-color="#FF9900" />
+      <stop offset="100%" stop-color="#FF3300" />
+    </linearGradient>
+  </defs>
+  <path d="M0 25 Q50 10 100 25 T200 25 T300 25 T400 25" stroke="url(#fire-orange)" stroke-width="6" fill="none" filter="url(#fire-glow)"/>
+  <g>
+    <ellipse cx="20" cy="20" rx="7" ry="12" fill="#FFD700" opacity="0.7"/>
+    <ellipse cx="60" cy="15" rx="5" ry="8" fill="#FF9900" opacity="0.7"/>
+    <ellipse cx="200" cy="10" rx="8" ry="14" fill="#FF3300" opacity="0.5"/>
+    <!-- Add more ellipses for flames -->
+  </g>
+</svg>
+
+fire-underline-blue.svg example:
+<svg width="400" height="30" viewBox="0 0 400 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fire-blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00FFFF" />
+      <stop offset="60%" stop-color="#00BFFF" />
+      <stop offset="100%" stop-color="#0033FF" />
+    </linearGradient>
+  </defs>
+  <path d="M0 25 Q50 10 100 25 T200 25 T300 25 T400 25" stroke="url(#fire-blue)" stroke-width="6" fill="none"/>
+  <g>
+    <ellipse cx="100" cy="18" rx="6" ry="10" fill="#00FFFF" opacity="0.5"/>
+    <ellipse cx="150" cy="12" rx="5" ry="8" fill="#00BFFF" opacity="0.7"/>
+    <ellipse cx="350" cy="10" rx="7" ry="13" fill="#0033FF" opacity="0.5"/>
+  </g>
+</svg>
+
+fire-underline-rainbow.svg example:
+<svg width="400" height="30" viewBox="0 0 400 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fire-rainbow" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF00D0" />
+      <stop offset="50%" stop-color="#00FFB9" />
+      <stop offset="100%" stop-color="#FFD600" />
+    </linearGradient>
+  </defs>
+  <path d="M0 25 Q50 10 100 25 T200 25 T300 25 T400 25" stroke="url(#fire-rainbow)" stroke-width="6" fill="none"/>
+  <g>
+    <ellipse cx="60" cy="17" rx="6" ry="10" fill="#FF00D0" opacity="0.6"/>
+    <ellipse cx="180" cy="13" rx="8" ry="14" fill="#00FFB9" opacity="0.7"/>
+    <ellipse cx="360" cy="11" rx="7" ry="13" fill="#FFD600" opacity="0.5"/>
+  </g>
+</svg>
+-->
 <!-- Animated AI Robot Name Banner with RGB Glow and Blue-Green Background -->
 <p align="center" style="background: linear-gradient(90deg, #00c6fb 0%, #005bea 100%); padding: 15px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&duration=3500&pause=1000&color=00FFB9&background=005BEAFF&center=true&vCenter=true&width=700&lines=🤖+VINEET+YADAV+%7C+AI+Walker+Bot;Data+Science+%7C+AI+%7C+Bot+Creator+🚀" alt="Animated AI Robot Name" style="filter: drop-shadow(0px 0px 16px #00ffb9) drop-shadow(0px 0px 32px #00ffb9);"/>
