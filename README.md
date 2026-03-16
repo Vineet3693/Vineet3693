@@ -112,7 +112,7 @@ text
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
-### **Big Data & Data Engineering**
+### **Big Data & Data Engineering (Learning)**
 <p align="center">
   <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
@@ -120,7 +120,7 @@ text
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 </p>
 
-### **Databases**
+### **Databases (learning)**
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -130,7 +130,7 @@ text
   <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge"/>
 </p>
 
-### **Cloud & MLOps**
+### **Cloud & MLOps (Learning)**
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -140,7 +140,7 @@ text
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 
-### **Visualization & BI**
+### **Visualization & BI(Learning)**
 <p align="center">
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -324,17 +324,15 @@ MLOps & Deployment     ███████████████░░░░
 
 
 text
-2024 - Present  │  AI/ML Engineer
+2026 - Present  │  Data science & AI/ML Developer
                 │  🔹 Leading GenAI initiatives
                 │  🔹 Building production ML pipelines
-                │  🔹 Mentoring junior data scientists
+                │  
                 │
-2022 - 2024     │  Data Scientist
+2024 - 2026   │  Data science & AI/ML INTERN
                 │  🔹 Developed 20+ ML models
                 │  🔹 Reduced costs by 30% using AI
-                │  🔹 Implemented MLOps practices
-                │
-2021 - 2022     │  Data Analyst
+                │  🔹 Implemented MLOps practices & performed Data Analysis
                 │  🔹 Built BI dashboards
                 │  🔹 Conducted statistical analysis
                 │  🔹 Automated reporting workflows
@@ -384,7 +382,7 @@ text
 ---
 
 <!-- Blog & Content -->
-<h2 align="center">📝 Latest Blog Posts & Articles</h2>
+<h2 align="center">📝 Latest Blog Posts & Articles (On the Way)</h2>
 
 <p align="center">
   <a href="https://medium.com/@yourusername">
