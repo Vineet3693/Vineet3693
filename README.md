@@ -36,7 +36,7 @@ text
 📊 Turning complex data into actionable insights
 🤖 Building intelligent systems with GenAI & LLMs
 🔬 Passionate about research and innovation in AI
-💼 3+ Years Experience in Data Science & ML
+💼 1+ Years Experience in Data Science & ML
 🌱 Currently exploring: LLMs, RAG, Vector Databases
 🎓 Published Researcher | Kaggle Contributor
 
