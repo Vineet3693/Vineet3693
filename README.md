@@ -305,8 +305,8 @@ MLOps & Deployment     ███████████████░░░░
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇-Hackathon_Winner_2024-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📚-3_Published_Papers-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🥇-Research Internhip_Winner_2026-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📚-1_Published_Papers-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/⭐-Kaggle_Expert-20BEFF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🎓-Data_Science_Specialist-FF6B6B?style=for-the-badge"/>
 </p>
