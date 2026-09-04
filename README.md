@@ -206,15 +206,6 @@ MLOps & Deployment     ███████████████░░░░
 
 ---
 
-<!-- Experience Timeline -->
-<h2 align="center">💼 Professional Journey</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/3%2B_Years-Experience-success?style=for-the-badge&logo=clockify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/50%2B-Projects_Completed-blue?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/10%2B-Clients_Served-orange?style=for-the-badge&logo=handshake&logoColor=white"/>
-</p>
-
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Statistics</h2>
 
@@ -348,18 +339,6 @@ text
 </tr>
 </table>
 
----
-
-<!-- Community Involvement -->
-<h2 align="center">🌐 Community & Speaking</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Speaker-AI_Conferences-blue?style=for-the-badge&logo=youtube"/>
-  <img src="https://img.shields.io/badge/Mentor-100%2B_Students-green?style=for-the-badge&logo=googleclassroom"/>
-  <img src="https://img.shields.io/badge/Workshop_Host-20%2B_Sessions-orange?style=for-the-badge&logo=meetup"/>
-</p>
-
-
 <!-- Contact & Collaboration -->
 <h2 align="center">🤝 Let's Connect & Collaborate!</h2>
 
@@ -407,72 +386,8 @@ text
   <strong>⏰ Timezone:</strong> IST (UTC+5:30)
 </p>
 
----
 
-<!-- Services Offered -->
-<h2 align="center">💼 Services I Offer</h2>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="80"/>
-<br><strong>AI/ML Consulting</strong>
-<br><sub>Strategy & Implementation</sub>
-<br><sub>Model Development & Optimization</sub>
-<br><sub>POC to Production</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/data-analytics.png" width="80"/>
-<br><strong>Data Science</strong>
-<br><sub>Exploratory Data Analysis</sub>
-<br><sub>Predictive Modeling</sub>
-<br><sub>Statistical Analysis</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/chatbot.png" width="80"/>
-<br><strong>GenAI Solutions</strong>
-<br><sub>LLM Integration</sub>
-<br><sub>RAG Applications</sub>
-<br><sub>Chatbot Development</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="80"/>
-<br><strong>MLOps & Deployment</strong>
-<br><sub>CI/CD for ML Models</sub>
-<br><sub>Model Monitoring</sub>
-<br><sub>Cloud Infrastructure</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/training.png" width="80"/>
-<br><strong>Training & Workshops</strong>
-<br><sub>Corporate Training</sub>
-<br><sub>1-on-1 Mentoring</sub>
-<br><sub>Technical Workshops</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80"/>
-<br><strong>Custom Development</strong>
-<br><sub>End-to-End Solutions</sub>
-<br><sub>API Development</sub>
-<br><sub>Data Pipelines</sub>
-</td>
-</tr>
-</table>
-
----
-
-<!-- Pricing (Optional) -->
-<h2 align="center">💰 Freelance Rates</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hourly_Rate-$50--$100-success?style=for-the-badge&logo=stripe"/>
-  <img src="https://img.shields.io/badge/Project_Based-Negotiable-blue?style=for-the-badge&logo=handshake"/>
-  <img src="https://img.shields.io/badge/Retainer-Available-orange?style=for-the-badge&logo=calendar"/>
-</p>
-
----
 
 <!-- Fun Facts & Personal Touch -->
 <h2 align="center">⚡ Fun Facts About Me</h2>
