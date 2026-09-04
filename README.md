@@ -76,10 +76,7 @@ text
 ### **Languages**
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+ 
 </p>
 
 ### **AI/ML Frameworks**
@@ -112,12 +109,6 @@ text
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
-### **Big Data & Data Engineering (Learning)**
-<p align="center">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
 </p>
 
 ### **Databases (learning)**
@@ -177,104 +168,6 @@ SQL & Databases        ███████████████████
 Cloud (AWS/Azure/GCP)  ████████████████░░░░░   78%
 MLOps & Deployment     ███████████████░░░░░░   75%
 
----
-
-<!-- Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Chatbot with RAG
-<a href="https://github.com/Vineet3693/project-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vineet3693&repo=project-repo&theme=radical&hide_border=true&bg_color=0D1117"/>
-</a>
-
-**Tech Stack:**
-- OpenAI GPT-4, LangChain, Pinecone
-- Python, FastAPI, Streamlit
-
-**Highlights:**
-- 🎯 98% user satisfaction rate
-- ⚡ Real-time response < 2s
-- 📚 RAG with 10K+ documents
-
-[Live Demo](https://demo-link.com) | [Source Code](https://github.com/Vineet3693)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Predictive Analytics Dashboard
-<a href="https://github.com/Vineet3693/project-repo2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vineet3693&repo=project-repo2&theme=radical&hide_border=true&bg_color=0D1117"/>
-</a>
-
-**Tech Stack:**
-- Scikit-learn, XGBoost, Pandas
-- Tableau, Power BI
-
-**Highlights:**
-- 📈 95% prediction accuracy
-- 💰 $2M cost savings identified
-- 🔄 Automated daily updates
-
-[Live Demo](https://demo-link.com) | [Source Code](https://github.com/Vineet3693)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 NLP Sentiment Analysis Engine
-<a href="https://github.com/Vineet3693/project-repo3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vineet3693&repo=project-repo3&theme=radical&hide_border=true&bg_color=0D1117"/>
-</a>
-
-**Tech Stack:**
-- BERT, Transformers, spaCy
-- PyTorch, FastAPI
-
-**Highlights:**
-- 🎭 Multi-language support (5+ languages)
-- 🚀 Processes 10K reviews/min
-- 📊 92% accuracy on real-world data
-
-[Live Demo](https://demo-link.com) | [Source Code](https://github.com/Vineet3693)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🖼️ Computer Vision Object Detection
-<a href="https://github.com/Vineet3693/project-repo4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vineet3693&repo=project-repo4&theme=radical&hide_border=true&bg_color=0D1117"/>
-</a>
-
-**Tech Stack:**
-- YOLO v8, TensorFlow, OpenCV
-- Docker, AWS Lambda
-
-**Highlights:**
-- 🎥 Real-time video processing
-- 🎯 90% mAP on custom dataset
-- ☁️ Serverless deployment
-
-[Live Demo](https://demo-link.com) | [Source Code](https://github.com/Vineet3693)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/Vineet3693?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <!-- Certifications & Achievements -->
 <h2 align="center">🏆 Certifications & Achievements</h2>
@@ -321,23 +214,6 @@ MLOps & Deployment     ███████████████░░░░
   <img src="https://img.shields.io/badge/50%2B-Projects_Completed-blue?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/10%2B-Clients_Served-orange?style=for-the-badge&logo=handshake&logoColor=white"/>
 </p>
-
-
-text
-2026 - Present  │  Data science & AI/ML Developer
-                │  🔹 Leading GenAI initiatives
-                │  🔹 Building production ML pipelines
-                │  
-                │
-2024 - 2026   │  Data science & AI/ML INTERN
-                │  🔹 Developed 20+ ML models
-                │  🔹 Reduced costs by 30% using AI
-                │  🔹 Implemented MLOps practices & performed Data Analysis
-                │  🔹 Built BI dashboards
-                │  🔹 Conducted statistical analysis
-                │  🔹 Automated reporting workflows
-
----
 
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Statistics</h2>
@@ -483,34 +359,6 @@ text
   <img src="https://img.shields.io/badge/Workshop_Host-20%2B_Sessions-orange?style=for-the-badge&logo=meetup"/>
 </p>
 
-**Recent Talks:**
-- 🎤 "Building Scalable ML Pipelines" - PyData Conference 2024
-- 🎙️ "LLMs in Production" - AI Summit 2024
-- 📢 "Career in AI/ML" - University Tech Fest 2024
-
----
-
-<!-- Testimonials (Optional) -->
-<h2 align="center">💬 Testimonials</h2>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-> *"Vineet's expertise in ML helped us reduce processing time by 60%. His attention to detail and problem-solving skills are exceptional."*
-> 
-> **— John Doe, CTO at TechCorp**
-</td>
-<td width="50%">
-
-> *"Outstanding AI engineer! Delivered a production-ready chatbot in record time. Highly recommend for any AI/ML project."*
-> 
-> **— Jane Smith, Product Manager at StartupXYZ**
-</td>
-</tr>
-</table>
-
----
 
 <!-- Contact & Collaboration -->
 <h2 align="center">🤝 Let's Connect & Collaborate!</h2>
