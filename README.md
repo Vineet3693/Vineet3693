@@ -150,61 +150,8 @@ text
 
 ---
 
-<!-- Skills Proficiency -->
-<h2 align="center">💻 Technical Expertise</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet3693&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB9&text_color=FFFFFF" alt="Top Languages"/>
-</p>
 
 
-text
-Machine Learning       ████████████████████░   95%
-Deep Learning          ███████████████████░░   90%
-Natural Language Proc  ██████████████████░░░   88%
-Computer Vision        ████████████████░░░░░   80%
-Data Visualization     ████████████████████░   95%
-SQL & Databases        ███████████████████░░   92%
-Cloud (AWS/Azure/GCP)  ████████████████░░░░░   78%
-MLOps & Deployment     ███████████████░░░░░░   75%
-
-
-<!-- Certifications & Achievements -->
-<h2 align="center">🏆 Certifications & Achievements</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="80"/>
-<br><strong>Google Cloud</strong>
-<br><sub>ML Engineer</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="80"/>
-<br><strong>AWS</strong>
-<br><sub>ML Specialty</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/microsoft.png" width="80"/>
-<br><strong>Azure</strong>
-<br><sub>AI Engineer</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/tensorflow.png" width="80"/>
-<br><strong>TensorFlow</strong>
-<br><sub>Developer Certificate</sub>
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇-Research Internhip_Winner_2026-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📚-1_Published_Papers-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⭐-Kaggle_Expert-20BEFF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎓-Data_Science_Specialist-FF6B6B?style=for-the-badge"/>
-</p>
-
----
 
 <!-- GitHub Stats -->
 <h2 align="center">📈 GitHub Statistics</h2>
@@ -237,107 +184,9 @@ MLOps & Deployment     ███████████████░░░░
 
 </details>
 
----
-
-<!-- Trophies -->
-<h2 align="center">🏅 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vineet3693&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
-</p>
 
 ---
 
-<!-- Blog & Content -->
-<h2 align="center">📝 Latest Blog Posts & Articles (On the Way)</h2>
-
-<p align="center">
-  <a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-  <a href="https://hashnode.com/@yourusername">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  </a>
-</p>
-
-<!-- Replace with your actual blog RSS feed -->
-<!-- BLOG-POST-LIST:START -->
-- 📚 [Building Production-Ready LLM Applications with LangChain](https://blog-link.com)
-- 🤖 [Fine-tuning BERT for Domain-Specific NLP Tasks](https://blog-link.com)
-- 🚀 [MLOps Best Practices: From Jupyter to Production](https://blog-link.com)
-- 📊 [Data Visualization Techniques for Better Storytelling](https://blog-link.com)
-- 💡 [Understanding Transformer Architecture from Scratch](https://blog-link.com)
-<!-- BLOG-POST-LIST:END -->
-
-<p align="center">
-  <a href="https://blog-link.com">
-    <img src="https://img.shields.io/badge/Read_More_Articles-FF5722?style=for-the-badge&logo=rss&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Learning & Growth -->
-<h2 align="center">🌱 Currently Learning</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMOps-Learning-yellow?style=for-the-badge&logo=openai"/>
-  <img src="https://img.shields.io/badge/Vector_Databases-Learning-yellow?style=for-the-badge&logo=pinecone"/>
-  <img src="https://img.shields.io/badge/Rust-Learning-yellow?style=for-the-badge&logo=rust"/>
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-Learning-yellow?style=for-the-badge&logo=pytorch"/>
-</p>
-
-
-text
-📖 Reading: "Designing Data-Intensive Applications" by Martin Kleppmann
-🎓 Course: Advanced MLOps Specialization (Coursera)
-🔬 Research: Fine-tuning LLMs for Low-Resource Languages
-🎯 Goal: Contribute to 5 open-source AI projects in 2024
-
----
-
-<!-- Open Source Contributions -->
-<h2 align="center">🤝 Open Source Contributions</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github"/>
-</p>
-
-<table align="center">
-<tr>
-<td align="center">
-<a href="https://github.com/huggingface/transformers">
-<img src="https://img.icons8.com/color/96/000000/machine-learning.png" width="60"/>
-<br><strong>Transformers</strong>
-<br><sub>5 PRs Merged</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/langchain-ai/langchain">
-<img src="https://img.icons8.com/color/96/000000/chain.png" width="60"/>
-<br><strong>LangChain</strong>
-<br><sub>3 PRs Merged</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/scikit-learn/scikit-learn">
-<img src="https://img.icons8.com/color/96/000000/python.png" width="60"/>
-<br><strong>Scikit-Learn</strong>
-<br><sub>2 PRs Merged</sub>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/tensorflow/tensorflow">
-<img src="https://img.icons8.com/color/96/000000/tensorflow.png" width="60"/>
-<br><strong>TensorFlow</strong>
-<br><sub>1 PR Merged</sub>
-</a>
-</td>
-</tr>
-</table>
 
 <!-- Contact & Collaboration -->
 <h2 align="center">🤝 Let's Connect & Collaborate!</h2>
