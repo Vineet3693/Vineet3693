@@ -258,34 +258,7 @@ text
 
 ---
 
-<!-- Daily Dev Card -->
-<h2 align="center">📰 Daily Dev Card</h2>
 
-<p align="center">
-  <a href="https://app.daily.dev/vineet3693">
-    <img src="https://api.daily.dev/devcards/YOUR_DAILY_DEV_ID.png?r=abc" width="400" alt="Vineet Yadav's Dev Card"/>
-  </a>
-</p>
-
----
-
-<!-- WakaTime Stats (if you use it) -->
-<h2 align="center">⏱️ Coding Activity (This Week)</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vineet3693&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB9&text_color=FFFFFF" alt="WakaTime Stats"/>
-</p>
-
----
-
-<!-- Spotify (Optional - what you're listening to) -->
-<h2 align="center">🎵 Currently Vibing To</h2>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00ffb9&bar_color_cover=true" alt="Spotify Now Playing"/>
-</p>
-
----
 
 <!-- Support Section -->
 <h2 align="center">☕ Support My Work</h2>
