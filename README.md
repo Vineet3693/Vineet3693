@@ -1,348 +1,276 @@
-
-<!-- Hero Section with Fire Animations -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=FF9900&background=00000000&center=true&vCenter=true&width=800&lines=🔥+AI%2FML+ENGINEER+🔥" alt="Animated Titles"/>
-</p>
+# 👋 Hi, I'm Vineet Yadav
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VINEET%20YADAV&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-</p>
-
-<!-- Typing Tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00FFB9&center=true&vCenter=true&width=700&lines=Transforming+Data+into+Intelligence;Building+AI+Solutions+that+Matter;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Open+to+Collaborations+%26+Opportunities" alt="Tagline"/>
-</p>
-
-<!-- Badges Row -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vineet3693&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Vineet3693?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Focus-AI%2FML-orange?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-success?style=for-the-badge" alt="Status"/>
-</p>
-
----
-
-<!-- About Me Section -->
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-</p>
-
-
-text
-🎯 AI/ML Engineer specializing in NLP and Deep Learning
-📊 Turning complex data into actionable insights
-🤖 Building intelligent systems with GenAI & LLMs
-🔬 Passionate about research and innovation in AI
-💼 1+ Years Experience in Data Science & ML
-🌱 Currently exploring: LLMs, RAG, Vector Databases
-🎓 Published Researcher | Kaggle Contributor
-
-💡 Open to: Full-time roles, Collaborations, Freelance
-
-
----
-
-<!-- Current Focus -->
-<h2 align="center">🔥 Current Focus</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="100"/>
-<br><strong>Generative AI</strong>
-<br><sub>Building with GPT-4, LangChain</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100"/>
-<br><strong>MLOps</strong>
-<br><sub>Production AI Systems</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100"/>
-<br><strong>Research</strong>
-<br><sub>NLP & Computer Vision</sub>
-</td>
-</tr>
-</table>
-
----
-
-<!-- Tech Stack Section -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
-
-### **Languages**
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- 
-</p>
-
-### **AI/ML Frameworks**
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LightGBM-2980B9?style=for-the-badge"/>
-</p>
-
-### **LLM & NLP**
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD000?style=for-the-badge"/>
-</p>
-
-### **Data Science & Analytics**
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
-</p>
-
-</p>
-
-### **Databases (learning)**
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge"/>
-</p>
-
-### **Cloud & MLOps (Learning)**
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
-</p>
-
-### **Visualization & BI(Learning)**
-<p align="center">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge&logo=plotly&logoColor=white"/>
-</p>
-
-### **Development Tools**
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-</p>
-
----
-
-
-
-
-<!-- GitHub Stats -->
-<h2 align="center">📈 GitHub Statistics</h2>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vineet3693&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFB9&icon_color=00FFB9&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vineet3693&theme=radical&hide_border=true&background=0D1117&ring=00FFB9&fire=FF9900&currStreakLabel=00FFB9" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet3693&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FFB9&line=00FFB9&point=FFFFFF" alt="Contribution Graph"/>
-</p>
-
-<details>
-<summary><h3>📊 Detailed Stats (Click to expand)</h3></summary>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vineet3693&theme=radical" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vineet3693&theme=radical"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vineet3693&theme=radical"/>
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vineet3693&theme=radical"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vineet3693&theme=radical"/>
-</p>
-
-</details>
-
-
----
-
-
-<!-- Contact & Collaboration -->
-<h2 align="center">🤝 Let's Connect & Collaborate!</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FFB9&center=true&vCenter=true&width=600&lines=Open+to+Full-Time+Opportunities;Available+for+Freelance+Projects;Let's+Build+Something+Amazing!;Coffee+Chat%3F+Book+a+Meeting!" alt="Call to Action"/>
-</p>
-
-<p align="center">
-  <a href="mailto:Vineet9949@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vineet-yadav-0965881b5">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a> 
- <a href="https://x.com/VINEET3699">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Vineet3693">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://kaggle.com/yourusername">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/yourinvite">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="https://calendly.com/yourusername">
-    <img src="https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Quick Contact Form -->
-<h3 align="center">📬 Quick Contact</h3>
-
-<p align="center">
-  <strong>📧 Email:</strong> Vineet9949@gmail.com<br>
-  <strong>💼 LinkedIn:</strong> <a href="https://www.linkedin.com/in/vineet-yadav-0965881b5">vineet-yadav</a><br>
-  <strong>🐦 Twitter:</strong> <a href="https://x.com/VINEET3699">@VINEET3699</a><br>
-  <strong>📍 Location:</strong> Available for Remote & Hybrid<br>
-  <strong>⏰ Timezone:</strong> IST (UTC+5:30)
-</p>
-
-
-
-
-<!-- Fun Facts & Personal Touch -->
-<h2 align="center">⚡ Fun Facts About Me</h2>
-
-<p align="center">
-  <img align="right" alt="Coding GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</p>
-
-
-text
-☕ Coffee Lover: Powered by caffeine and curiosity
-🎮 Gamer: Strategy games teach me problem-solving
-📚 Bookworm: Currently reading AI research papers
-🏃 Runner: Code better after a good run
-🎵 Music: Lo-fi beats while coding
-🌍 Explorer: Visited 15+ countries
-💡 Hackathon Junkie: Won 10+ competitions
-🤖 Side Project: Building an AI coding assistant
-
----
-
-
-
-<!-- Support Section -->
-<h2 align="center">☕ Support My Work</h2>
-
-<p align="center">
-  If you find my projects helpful, consider buying me a coffee! ☕
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-  <a href="https://ko-fi.com/yourusername">
-    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sponsors/Vineet3693">
-    <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<!-- Recent Activity (auto-updated with GitHub Actions) -->
-<h2 align="center">⚡ Recent GitHub Activity</h2>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/Vineet3693/repo/pull/123) in [Vineet3693/repo](https://github.com/Vineet3693/repo)
-2. 💪 Opened PR [#456](https://github.com/org/repo/pull/456) in [org/repo](https://github.com/org/repo)
-3. 🗣 Commented on [#789](https://github.com/org/repo/issues/789) in [org/repo](https://github.com/org/repo)
-4. ⭐ Starred [awesome/repo](https://github.com/awesome/repo)
-5. 🔱 Forked [cool/project](https://github.com/cool/project)
-<!--END_SECTION:activity-->
-
----
-
-<!-- Visitor Map -->
-<h2 align="center">🌍 Visitor Map</h2>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Vineet3693/count.svg" alt="Visitor Count"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Vineet3693/Vineet3693/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-
----
-
-<!-- Footer with Quote -->
-<h2 align="center">💭 Quote of the Day</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160&section=header&text=VINEET%20YADAV&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=45" width="100%" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=4000&pause=1000&color=00FFB9&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+the+future+with+AI!+🚀;Don't+forget+to+star+my+repos!+⭐;Open+to+collaborations!+🤝" alt="Footer Message"/>
+  AI/ML Engineer · Applied AI · LLMs · Multimodal AI Research
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Vineet3693?label=Followers&style=social" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Vineet3693?label=Stars&style=social" alt="Stars"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9A6&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Systems;Engineering+LLM+%26+Agentic+Applications;Exploring+Multimodal+RAG+%26+AI+Research;Turning+Research+into+Real-World+Solutions" alt="Professional tagline" />
 </p>
 
 <p align="center">
-  Made with ❤️ by <strong>Vineet Yadav</strong>
-  <br>
-  <sub>Last Updated: January 2025</sub>
+  <a href="https://github.com/Vineet3693">
+    <img src="https://komarev.com/ghpvc/?username=Vineet3693&style=flat-square&color=00D9A6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Applied%20AI-00D9A6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-0D1117?style=flat-square&logo=googlemaps&logoColor=00D9A6" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00D9A6?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="mailto:Vineet9949@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/vineet-yadav-0965881b5">LinkedIn</a> •
+  <a href="https://github.com/Vineet3693">GitHub</a> •
+  <a href="https://x.com/VINEET3699">X</a>
 </p>
 
 ---
 
-<!-- Hidden Easter Egg -->
-<!--
-████████████████████████████████████████████████████████████████
-█░░░░░░██████████░░░░░░█░░░░░░░░░░░░░░█░░░░░░░░░░░░░░░░███░░░░░░░░░░░░░░█
-█░░▄▀░░░░░░░░░░██░░▄▀░░█░░▄▀▄▀▄▀▄▀▄▀░░█░░▄▀▄▀▄▀▄▀▄▀▄▀░░███░░▄▀▄▀▄▀▄▀▄▀░░█
-█░░▄▀▄▀▄▀▄▀▄▀░░██░░▄▀░░█░░▄▀░░░░░░▄▀░░█░░▄▀░░░░░░░░▄▀░░███░░▄▀░░░░░░░░░░█
-You found the easter egg! 🥚
-Connect with me and mention "easter egg" for a surprise! 😄
--->
+## 👨‍💻 About Me
+
+I'm an AI/ML Engineer and Researcher interested in building intelligent systems that bridge machine learning research and real-world applications.
+
+With **1.5+ years of experience across AI/ML engineering, research, and applied development**, I work on machine learning, deep learning, generative AI, LLM applications, and multimodal retrieval systems.
+
+Currently, I'm working on multimodal AI research at **IIT Jodhpur**, exploring systems that understand and retrieve information across text, figures, tables, and mathematical equations.
+
+### What I Work On
+
+- 🧠 **Machine Learning:** Model development, experimentation, evaluation and optimization.
+- 🤖 **Generative AI:** LLM applications, prompt engineering and AI-powered workflows.
+- 🔗 **RAG & Agentic AI:** Retrieval pipelines, vector databases and intelligent agents.
+- 👁️ **Computer Vision:** Deep learning, image analysis and medical AI applications.
+- 🔬 **Applied Research:** Experimentation, model evaluation, explainability and practical AI systems.
+- ⚙️ **AI Engineering:** Python-based development, APIs, backend systems and deployment.
+
+---
+
+## 💼 Experience & Research
+
+### IIT Jodhpur
+**AI Research Intern** | May 2026 – Present
+
+- Working on multimodal Retrieval-Augmented Generation (RAG).
+- Exploring information retrieval across text, figures, tables and mathematical equations.
+- Developing document-oriented retrieval pipelines for complex technical and healthcare information.
+- Working with ChromaDB and SQLite for vector retrieval and metadata management.
+- Experimenting with GPU-based model workflows and evaluation.
+
+### AgenixAI
+**AI Intern → DSML Intern** | January 2025 – January 2026
+
+- Worked on AI/ML engineering and data science applications.
+- Contributed to prompt engineering and AI response optimization.
+- Improved prompt-response performance by approximately **30–40%** through iterative optimization.
+- Progressed from AI Intern to DSML Intern.
+
+### Ganpat University
+**AI/ML Research Intern** | January 2026 – February 2026
+
+- Worked on medical image classification using the MURA dataset.
+- Experimented with deep learning architectures, including InceptionV3.
+- Applied Grad-CAM for model interpretability and visual explanation.
+- Achieved **92.99% accuracy and 0.9928 AUC** in the reported experimental results.
+- Secured **3rd Rank** in the GUNI Winter Student Research Projects / Start-up Competition.
+
+---
+
+## 🚀 Featured Projects
+
+### 01. Vital AI — Medical Image Intelligence
+
+**Domain:** Medical AI · Deep Learning · Explainable AI
+
+- Developed an AI-based medical image classification project using the MURA dataset.
+- Worked with 40,561 musculoskeletal radiographs across seven anatomical categories.
+- Used InceptionV3 for classification.
+- Achieved 92.99% accuracy and 0.9928 AUC in experimental evaluation.
+- Integrated Grad-CAM to visualize model attention and improve interpretability.
+
+**Technologies:** Python, TensorFlow/Keras, InceptionV3, Grad-CAM, Computer Vision.
+
+### 02. ConsultLegal — AI Legal Research Platform
+
+**Domain:** Generative AI · RAG · Backend Engineering
+
+- Developing an AI-powered legal research platform.
+- Building a research workflow combining web research, knowledge bases and document processing.
+- Implementing retrieval and citation-oriented report generation.
+- Working with FastAPI, Next.js, PostgreSQL and pgvector.
+- Exploring production deployment, containerization and cloud infrastructure.
+
+**Technologies:** Python, FastAPI, Next.js, PostgreSQL, pgvector, Gemini, Docker.
+
+### 03. Drishti-GPT — Bhagavad Gita RAG
+
+**Domain:** LLMs · Semantic Search · Knowledge Systems
+
+- Building a retrieval-based conversational system around the Bhagavad Gita.
+- Working with approximately 700 shlokas and 18 chapter summaries.
+- Exploring multilingual retrieval and contextual response generation.
+- Experimenting with compact language models and embedding-based retrieval.
+
+**Technologies:** Python, RAG, Hugging Face, Gemma, Vector Search, LLMs.
+
+### 04. MJ — Personal AI Assistant
+
+**Domain:** Agentic AI · Voice AI · Automation
+
+- Developing a personal AI assistant with text and voice interaction.
+- Integrating LLM-powered workflows using Groq and Gemini.
+- Exploring offline speech recognition, text-to-speech and voice activity detection.
+- Designing conversational memory, task orchestration and human-controlled computer interaction.
+
+**Technologies:** Python, JavaScript, Electron, Groq, Gemini, Speech Processing, Agentic AI.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,js,cpp" />
+</p>
+
+### Machine Learning & Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <br/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square"/>
+</p>
+
+### Generative AI & LLM Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-00A98F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-6C63FF?style=flat-square"/>
+</p>
+
+### Data Science & Analytics
+
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+</p>
+
+### Databases & Vector Search
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" />
+  <br/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
+</p>
+
+### Backend, Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,azure,git,github,linux,vscode" />
+  <br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+</p>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology (B.Tech.)**
+
+Central University of Chhattisgarh  
+2022 – 2026
+
+- CGPA: **7.36 / 10**
+- Final Semester SGPA: **9.00 / 10**
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🥉 3rd Rank — GUNI Winter Student Research Projects / Start-up Competition.
+- 🩻 Achieved 92.99% accuracy in an experimental medical image classification project.
+- 📈 Contributed to approximately 30–40% improvement in prompt-response performance at AgenixAI.
+- 🔬 AI/ML research experience at IIT Jodhpur.
+- 🧠 Experience across Computer Vision, Generative AI and multimodal retrieval systems.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vineet3693&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9A6&icon_color=00D9A6&text_color=FFFFFF&include_all_commits=true" alt="GitHub Statistics"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vineet3693&theme=dark&hide_border=true&background=0D1117&ring=00D9A6&fire=00D9A6&currStreakLabel=00D9A6" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet3693&bg_color=0D1117&color=00D9A6&line=00D9A6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity"/>
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+- Multimodal Retrieval-Augmented Generation
+- Agentic AI and multi-agent architectures
+- Advanced LLM application engineering
+- AI system optimization and deployment
+- Research-oriented Computer Vision applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities and collaborations involving:
+
+- Applied AI and Machine Learning Engineering
+- LLM, RAG and Agentic AI development
+- AI Research and Engineering
+- Multimodal AI applications
+- Open-source AI projects
+
+<p align="center">
+  <a href="mailto:Vineet9949@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vineet-yadav-0965881b5">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vineet3693">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://x.com/VINEET3699">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building intelligent systems. Exploring new possibilities. Turning ideas into impact."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,100:0D1117&height=100&section=footer" width="100%"/>
+</p>
+
+<p align="center">
+  <sub>Designed & maintained by Vineet Yadav · © 2026</sub>
+</p>
