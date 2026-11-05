@@ -1,492 +1,369 @@
-<!-- ========================================================= -->
-<!--          VINEET YADAV | ANIMATED GITHUB PORTFOLIO          -->
-<!-- ========================================================= -->
+&#x20;\<div align="center">
 
-<div align="center">
+\<!-- ================= HERO ================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:071B2B,100:00D9A6&height=230&section=header&text=VINEET%20YADAV&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=AI%20ENGINEER%20%7C%20APPLIED%20AI%20%7C%20RESEARCH&descAlignY=58&descSize=17" width="100%" alt="Vineet Yadav"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&height=210&color=0:101828,45:164E63,100:2563EB&text=Vineet%20Yadav&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Applied%20AI%20%7C%20Agentic%20Systems&descAlignY=59&descSize=17&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&height=210\&color=0:101828,45:164E63,100:2563EB\&text=Vineet%20Yadav\&fontColor=FFFFFF\&fontSize=54\&fontAlignY=38\&desc=AI%20Engineer%20%7C%20Applied%20AI%20%7C%20Agentic%20Systems\&descAlignY=59\&descSize=17\&animation=fadeIn)" width="100%" alt="Vineet Yadav animated header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00F5C4&center=true&vCenter=true&width=850&lines=Building+Intelligent+AI+Systems;Engineering+LLM+%26+Agentic+Applications;Exploring+Multimodal+RAG+%26+AI+Research;Turning+Ideas+Into+Intelligent+Solutions" alt="Animated Tagline"/>
+\<a href="[https://github.com/Vineet3693](https://github.com/Vineet3693)">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Practical+AI+Systems;Agentic+AI+%7C+RAG+%7C+Machine+Learning;Research+%2B+Engineering+%2B+Experimentation](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&duration=3000\&pause=900\&color=38BDF8\&center=true\&vCenter=true\&width=700\&lines=Building+Practical+AI+Systems;Agentic+AI+%7C+RAG+%7C+Machine+Learning;Research+%2B+Engineering+%2B+Experimentation)" alt="Typing introduction" />
+\</a>
 
-<br/>
+\<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Vineet3693&style=for-the-badge&color=00D9A6&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Vineet3693?style=for-the-badge&color=0D1117&labelColor=00D9A6&logo=github&logoColor=white&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/badge/FOCUS-APPLIED%20AI-00D9A6?style=for-the-badge" alt="Focus"/>
+\<a href="[https://github.com/Vineet3693](https://github.com/Vineet3693)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-Vineet3693-111827?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Vineet3693-111827?style=for-the-badge\&logo=github\&logoColor=white)" />
+\</a>
+\<a href="mailto\:vineet.ggu\@gmail.com">
+&#x20; \<img src="[https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+\</a>
+\<a href="mailto\:Vineet9949\@gmail.com">
+&#x20; \<img src="[https://img.shields.io/badge/Email-Alternative-334155?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Alternative-334155?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+\</a>
 
-<br/><br/>
-
-<a href="mailto:vineet.ggu@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00D9A6?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-<a href="mailto:Vineet9949@gmail.com">
-<img src="https://img.shields.io/badge/ALTERNATE%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vineet-yadav-0965881b5">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Vineet3693">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://x.com/VINEET3699">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-</div>
+\</div>
 
 ---
 
-<!-- ABOUT -->
+## 👨‍💻 About Me
 
-<h2 align="center">⚡ ABOUT ME</h2>
+I'm an AI Engineer working across **Applied AI, Machine Learning, Agentic AI, and Retrieval-Augmented Generation (RAG)**.
 
-<table>
-<tr>
-<td width="65%" valign="middle">
+My work focuses on turning AI research and ideas into practical systems—from multimodal information retrieval and AI-powered document processing to intelligent workflows and predictive machine learning.
 
-### 👨‍💻 AI Engineer | Applied AI Researcher
+I enjoy working across the complete engineering cycle:
 
-I'm an AI Engineer interested in designing and building intelligent systems using Machine Learning, Deep Learning, Generative AI, and modern AI architectures.
-
-With **1.5+ years of experience across AI/ML engineering and research**, I have worked on AI-powered applications, computer vision, multimodal information retrieval, and LLM-based workflows.
-
-Currently, I am working on multimodal AI research at **IIT Jodhpur**, exploring retrieval systems that understand information across text, figures, tables, and mathematical equations.
-
-**Areas of interest**
-
-- Generative AI & LLM Engineering
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI & AI Workflows
-- Multimodal AI
-- Computer Vision
-- Applied Machine Learning
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=1000&color=00D9A6&center=true&vCenter=true&width=250&lines=Research;Engineering;Experimentation;Innovation" alt="Animated Workflow"/>
-
-</td>
-</tr>
-</table>
+- Designing AI workflows and system architecture.
+- Building LLM-powered applications and agentic systems.
+- Experimenting with machine learning models and evaluation.
+- Developing APIs and integrating AI into usable applications.
+- Exploring multimodal AI, retrieval, and automation.
 
 ---
 
-<!-- EXPERIENCE -->
+## 💼 Experience
 
-<h2 align="center">💼 PROFESSIONAL EXPERIENCE</h2>
+\<table width="100%">
+\<tr>
+\<td width="5%" valign="top">🔹\</td>
+\<td width="95%">
 
-<table width="100%">
-<tr>
-<td>
+### AI Research Intern — IIT Jodhpur
 
-### 🔬 IIT Jodhpur
-**AI Research Intern | May 2026 – Present**
+**May 2026 – Present**
 
-- Working on multimodal Retrieval-Augmented Generation systems.
+Working on multimodal Retrieval-Augmented Generation systems for extracting and retrieving information from complex documents.
+
 - Exploring retrieval across text, figures, tables, and mathematical equations.
-- Developing document-processing and information-retrieval workflows.
-- Working with ChromaDB and SQLite for vector retrieval and metadata management.
-- Using LangGraph and FastAPI in AI application workflows.
+- Working with ChromaDB and SQLite-based metadata management.
+- Developing modular Python-based components and API workflows.
+- Exploring LangGraph-based orchestration for advanced retrieval pipelines.
 
-</td>
-</tr>
-<tr>
-<td>
+\</td>
+\</tr>
+\<tr>\<td colspan="2">\<hr/>\</td>\</tr>
+\<tr>
+\<td width="5%" valign="top">🔹\</td>
+\<td width="95%">
 
-### 🤖 AgenixAI
-**AI / Agentic AI Intern | January 2025 – January 2026**
+### DSML Intern — AgenixAI
 
-- Worked on AI engineering and intelligent workflow development.
-- Contributed to the FIP project involving food image analysis and medical report processing.
-- Worked with vision-enabled LLM workflows and structured AI processing.
-- Contributed to prompt engineering and response optimization, achieving approximately 30–40% improvement in the reported prompt-response performance.
-- Progressed from AI Intern to DSML Intern.
+**January 2025 – January 2026**
 
-</td>
-</tr>
-<tr>
-<td>
+Progressed from AI Intern to DSML Intern, contributing to AI-powered applications and intelligent processing workflows.
 
-### ⚙️ SimtelAI
-**AI Engineer**
+- Worked on food-image analysis and medical-report processing workflows.
+- Integrated vision-enabled AI capabilities and LLM-based processing.
+- Developed structured workflows using Python, Pydantic, and agentic components.
+- Contributed to prompt and response optimization, improving response quality by approximately 30–40%.
 
-- Worked on ConsultLegal AI, an AI-powered legal research and document-processing platform.
-- Contributed to LLM-powered research and retrieval workflows.
-- Worked on backend and AI integration for legal-document applications.
-- Explored document retrieval, research automation, and citation-oriented report generation.
+\</td>
+\</tr>
+\<tr>\<td colspan="2">\<hr/>\</td>\</tr>
+\<tr>
+\<td width="5%" valign="top">🔹\</td>
+\<td width="95%">
 
-</td>
-</tr>
-</table>
+### AI Engineer — Simtel AI
 
----
+Working on AI engineering and the development of practical AI-powered solutions.
 
-<!-- PROJECTS -->
+- Contributing to ConsultLegal AI, an AI-powered legal research platform.
+- Working across application workflows, backend integration, and AI-powered document research.
 
-<h2 align="center">🚀 PROJECTS & ENGINEERING WORK</h2>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=900&color=00D9A6&center=true&vCenter=true&width=650&lines=Real+Problems.+Intelligent+Systems.;From+Research+to+Engineering.;Building+AI+That+Works." alt="Project Tagline"/>
-</p>
-
-<!-- PROJECT 1 -->
-
-<table width="100%">
-<tr>
-<td>
-
-### 01. ⚖️ ConsultLegal AI
-
-**AI Legal Research & Document Intelligence Platform**
-
-An AI-powered legal research and document-processing platform focused on legal information retrieval, research workflows, and document generation.
-
-**Key Work**
-- Developing legal-document RAG workflows.
-- Integrating Gemini-powered research and cited report generation.
-- Building document-processing and retrieval pipelines.
-- Developing backend APIs and frontend integration.
-- Working with PostgreSQL and pgvector for data and retrieval.
-
-**Technology Stack**
-
-`Python` `FastAPI` `Next.js` `Gemini` `PostgreSQL` `pgvector` `Docker` `Azure`
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT 2 -->
-
-<table width="100%">
-<tr>
-<td>
-
-### 02. 🔬 IIT Jodhpur — Multimodal RAG
-
-**Multimodal Document Intelligence & Retrieval**
-
-A research-oriented retrieval system designed to work with complex documents containing multiple information formats.
-
-**Key Work**
-- Retrieval across text, figures, tables, and mathematical equations.
-- Document-oriented information extraction and processing.
-- Vector-based semantic retrieval.
-- Metadata management using SQLite.
-- AI workflow orchestration and API integration.
-
-**Technology Stack**
-
-`Python` `LangGraph` `ChromaDB` `SQLite` `FastAPI` `Multimodal RAG`
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT 3 -->
-
-<table width="100%">
-<tr>
-<td>
-
-### 03. 🍽️ FIP — Food Image & Medical Report Processing
-
-**AgenixAI | Vision AI | Intelligent Document Processing**
-
-An AI workflow involving food image analysis and medical report processing.
-
-**Key Work**
-- Food image analysis using vision-enabled AI workflows.
-- Medical report processing.
-- Structured AI processing and output generation.
-- Multi-step workflow orchestration.
-- State management and structured data handling.
-
-**Technology Stack**
-
-`Python` `Gemini Vision` `Groq` `LangChain` `LangGraph` `Pydantic` `MemorySaver`
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT 4 -->
-
-<table width="100%">
-<tr>
-<td>
-
-### 04. 🩻 Medical Image Classification — Ganpat University
-
-**Computer Vision | Medical Imaging | Explainable AI**
-
-A separate medical imaging research project using the MURA dataset for musculoskeletal radiograph classification.
-
-**Key Work**
-- Worked with 40,561 radiographs across seven anatomical categories.
-- Developed classification experiments using InceptionV3.
-- Achieved 92.99% accuracy and 0.9928 AUC in reported experimental results.
-- Applied Grad-CAM for visual model interpretability.
-- Secured 3rd rank in the GUNI Winter Student Research Projects / Start-up Competition.
-
-**Technology Stack**
-
-`Python` `TensorFlow` `Keras` `InceptionV3` `Computer Vision` `Grad-CAM`
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT 5 -->
-
-<table width="100%">
-<tr>
-<td>
-
-### 05. 🧬 Vital AI
-
-**Personalized Health-Risk Prediction & Wellness Intelligence**
-
-A separate machine learning project focused on health-risk prediction and reward-based wellness monitoring.
-
-**Key Work**
-- Worked with a dataset containing 2,485 records.
-- Used 11 base features and five engineered features.
-- Evaluated multiple machine learning approaches.
-- Selected XGBoost as the best-performing model in the reported experiments.
-- Achieved 98.39% test accuracy and 0.9756 Macro F1.
-- Explored anomaly detection using Isolation Forest and model interpretation using SHAP.
-
-**Technology Stack**
-
-`Python` `XGBoost` `Scikit-learn` `Pandas` `NumPy` `SHAP` `Isolation Forest`
-
-*Note: The reported labels were computationally derived; these results do not establish independent clinical validation.*
-
-</td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- TECH STACK -->
+## 🚀 Featured Projects
 
-<h2 align="center">🛠️ TECHNOLOGY STACK</h2>
+\<table width="100%">
+\<tr>
+\<td width="50%" valign="top">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=900&color=00D9A6&center=true&vCenter=true&width=550&lines=Technologies+Used+Across+My+Projects;A+Project-Oriented+Technology+Stack" alt="Technology Stack"/>
-</p>
+### ⚖️ ConsultLegal AI
 
-<!-- PROGRAMMING LANGUAGE -->
+**AI Legal Research Platform**
 
-<table width="100%">
-<tr>
-<td align="center">
+An AI-powered legal research platform designed to process legal documents, retrieve relevant information, and generate research reports with citations.
 
-### 💻 Programming Language
+**Engineering highlights**
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="65" alt="Python"/>
+- Deep Research workflow.
+- Legal document processing and retrieval.
+- Gemini-powered research and report generation.
+- PostgreSQL with pgvector.
+- FastAPI backend and Next.js application.
+- Docker-based deployment architecture.
 
-<br/>
+**Stack:** Python · FastAPI · Next.js · PostgreSQL · pgvector · Gemini · Docker
+
+\</td>
+\<td width="50%" valign="top">
+
+### 🧠 Multimodal RAG — IIT Jodhpur
+
+**Document Intelligence & Retrieval**
+
+A multimodal retrieval system designed to work with information distributed across complex documents.
+
+**Engineering highlights**
+
+- Text, figures, tables, and equations.
+- ChromaDB vector retrieval.
+- SQLite metadata management.
+- LangGraph orchestration.
+- Modular Python architecture.
+- API-oriented system development.
+
+**Stack:** Python · LangGraph · ChromaDB · SQLite · FastAPI
+
+\</td>
+\</tr>
+\<tr>
+\<td colspan="2">\<hr/>\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
+
+### 🍽️ FIP — AgenixAI
+
+**Food Image & Medical Report Processing**
+
+An AI-powered workflow combining image understanding and medical-report processing.
+
+**Engineering highlights**
+
+- Food-image analysis.
+- Medical-report processing.
+- Vision-enabled AI integration.
+- Structured LLM workflows.
+- Pydantic-based data handling.
+- Memory-aware agent workflows.
+
+**Stack:** Python · Gemini Vision · Groq · LangChain · LangGraph · Pydantic
+
+\</td>
+\<td width="50%" valign="top">
+
+### 🩻 MURA Radiology — Ganpat University
+
+**Deep Learning for Musculoskeletal Radiographs**
+
+A radiograph classification research project using the MURA dataset.
+
+**Research highlights**
+
+- 40,561 radiographs.
+- Seven anatomical categories.
+- InceptionV3-based classification.
+- Grad-CAM model interpretability.
+- 92.99% accuracy.
+- 0.9928 AUC.
+
+**Stack:** Python · TensorFlow/Keras · InceptionV3 · Grad-CAM
+
+\</td>
+\</tr>
+\<tr>
+\<td colspan="2">\<hr/>\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
+
+### 📊 Vital AI
+
+**Machine Learning & Predictive Analytics**
+
+A separate machine learning project focused on predictive modelling and data-driven analysis.
+
+**Engineering highlights**
+
+- 2,485 records.
+- 11 base features and 5 engineered features.
+- XGBoost classification.
+- 98.39% test accuracy.
+- 0.9756 Macro F1.
+- Isolation Forest and SHAP analysis.
+
+**Stack:** Python · XGBoost · Scikit-learn · SHAP
+
+\</td>
+\<td width="50%" valign="top">
+
+### 🔬 Applied AI Engineering
+
+**Research, Experimentation & System Development**
+
+An ongoing focus on building and evaluating practical AI systems.
+
+**Areas of work**
+
+- LLM application development.
+- Agentic workflow design.
+- Retrieval and document intelligence.
+- Machine learning experimentation.
+- Model evaluation and interpretability.
+- API and application integration.
+
+\</td>
+\</tr>
+\</table>
+
+---
+
+## 🧰 Technology Stack
+
+\<div align="center">
+
+### Programming Language
+
+\<img src="[https://skillicons.dev/icons?i=python&theme=dark](https://skillicons.dev/icons?i=python\&theme=dark)" height="55" alt="Python" />
 
 **Python**
 
-</td>
-</tr>
-</table>
+\</div>
 
-<!-- PROJECT-BASED TECHNOLOGY BOXES -->
+\<table width="100%">
+\<tr>
+\<td width="50%" valign="top">
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### 🤖 AI & Machine Learning
 
-### 🤖 Generative AI & LLMs
+\<img src="[https://img.shields.io/badge/Machine%20Learning-172554?style=flat-square](https://img.shields.io/badge/Machine%20Learning-172554?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/Deep%20Learning-172554?style=flat-square](https://img.shields.io/badge/Deep%20Learning-172554?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/Computer%20Vision-172554?style=flat-square](https://img.shields.io/badge/Computer%20Vision-172554?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/Explainable%20AI-172554?style=flat-square](https://img.shields.io/badge/Explainable%20AI-172554?style=flat-square)" />
 
-<div align="center">
+**Tools**
 
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+\<img src="[https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/YOLO-111827?style=flat-square](https://img.shields.io/badge/YOLO-111827?style=flat-square)" />
 
-</div>
+\</td>
+\<td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+### 🧠 Generative & Agentic AI
 
-### 🔗 RAG & AI Orchestration
+**LLM & AI Providers**
 
-<div align="center">
+\<img src="[https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white](https://img.shields.io/badge/Gemini-4285F4?style=flat-square\&logo=googlegemini\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Groq-F55036?style=flat-square](https://img.shields.io/badge/Groq-F55036?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)" />
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
+**Frameworks & Architecture**
 
-</div>
+\<img src="[https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/RAG-164E63?style=flat-square](https://img.shields.io/badge/RAG-164E63?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/Agentic%20AI-164E63?style=flat-square](https://img.shields.io/badge/Agentic%20AI-164E63?style=flat-square)" />
 
-</td>
-</tr>
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
 
-<tr>
-<td width="50%" valign="top">
+### 🔎 Vector Search & Data
 
-### 👁️ Computer Vision & Deep Learning
+\<img src="[https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square](https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/FAISS-2563EB?style=flat-square](https://img.shields.io/badge/FAISS-2563EB?style=flat-square)" />
+\<img src="[https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/pgvector-4169E1?style=flat-square](https://img.shields.io/badge/pgvector-4169E1?style=flat-square)" />
 
-<div align="center">
+### ⚙️ Backend & APIs
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/InceptionV3-00A98F?style=flat-square"/>
-<img src="https://img.shields.io/badge/Grad--CAM-8A2BE2?style=flat-square"/>
+\<img src="[https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Pydantic-E92063?style=flat-square](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)" />
 
-</div>
+\</td>
+\<td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+### 🛠️ Development & Deployment
 
-### 📊 Machine Learning & Data Science
+\<img src="[https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)" />
 
-<div align="center">
+### 🌐 Application Development
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-00A98F?style=flat-square"/>
+\<img src="[https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)" />
 
-</div>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🗄️ Databases & Storage
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square"/>
-<img src="https://img.shields.io/badge/pgvector-336791?style=flat-square"/>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Infrastructure
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-
-</div>
-
-</td>
-</tr>
-</table>
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<!-- GITHUB ANALYTICS -->
+## 📈 GitHub Analytics
 
-<h2 align="center">📈 GITHUB ANALYTICS</h2>
+\<div align="center">
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vineet3693&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9A6&icon_color=00D9A6&text_color=FFFFFF&cache_seconds=1800" alt="GitHub Statistics"/>
-<img width="49%" src="https://streak-stats.demolab.com/?user=Vineet3693&theme=dark&hide_border=true&background=050816&ring=00D9A6&fire=FF9900&currStreakLabel=00D9A6" alt="GitHub Contribution Streak"/>
-</p>
+\<!-- Profile statistics -->
 
-<p align="center">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet3693&bg_color=050816&color=00D9A6&line=00D9A6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
-</p>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Vineet3693&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Vineet3693\&show_icons=true\&hide_border=true\&rank_icon=github\&theme=tokyonight\&include_all_commits=true)" alt="GitHub profile statistics" />
+\<img width="49%" src="[https://streak-stats.demolab.com?user=Vineet3693&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=Vineet3693\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak" />
 
-<details>
-<summary><b>📊 More GitHub Statistics</b></summary>
+\<br/>
 
-<br/>
+\<!-- Language distribution -->
 
-<p align="center">
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vineet3693&theme=github_dark" alt="GitHub Profile Summary"/>
-</p>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet3693&layout=compact&hide_border=true&theme=tokyonight&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet3693\&layout=compact\&hide_border=true\&theme=tokyonight\&langs_count=8)" alt="Most used GitHub languages" />
+\<img width="49%" src="[https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vineet3693&theme=tokyonight&utcOffset=5.5](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vineet3693\&theme=tokyonight\&utcOffset=5.5)" alt="GitHub productive time" />
 
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet3693&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=050816&title_color=00D9A6&text_color=FFFFFF" alt="Most Used Languages"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vineet3693&theme=github_dark" alt="GitHub Summary"/>
-</p>
+\<br/>
 
-</details>
+\<!-- Contribution graph -->
 
----
+\<img width="98%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Vineet3693&theme=tokyo-night&hide_border=true&area=true](https://github-readme-activity-graph.vercel.app/graph?username=Vineet3693\&theme=tokyo-night\&hide_border=true\&area=true)" alt="GitHub contribution activity graph" />
 
-<!-- CURRENT FOCUS -->
+\<br/>
 
-<h2 align="center">🔥 CURRENT FOCUS</h2>
+\<img src="[https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vineet3693&theme=tokyonight](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vineet3693\&theme=tokyonight)" width="98%" alt="GitHub profile contribution summary" />
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=00D9A6&center=true&vCenter=true&width=650&lines=Multimodal+RAG;Agentic+AI+Architectures;LLM+Application+Engineering;Advanced+AI+Workflows;Production-Oriented+AI+Systems" alt="Current Focus"/>
-
-</div>
+\</div>
 
 ---
 
-<!-- CONNECT -->
+## 🤝 Connect With Me
 
-<h2 align="center">🤝 LET'S CONNECT</h2>
+\<div align="center">
 
-<div align="center">
+\<a href="[https://github.com/Vineet3693](https://github.com/Vineet3693)">
+&#x20; \<img src="[https://img.shields.io/badge/GitHub-Vineet3693-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Vineet3693-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a> \<a href="mailto\:vineet.ggu\@gmail.com">   \<img src="[https://img.shields.io/badge/Email-vineet.ggu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-vineet.ggu%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" /> \</a> \<a href="mailto\:Vineet9949\@gmail.com">   \<img src="[https://img.shields.io/badge/Email-Vineet9949%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Vineet9949%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+\</a>
 
-**Interested in AI engineering, research collaborations, and building intelligent applications.**
+\<br/>\<br/>
 
-<br/>
+**Building intelligent systems. Turning research into practical AI.**
 
-<a href="mailto:vineet.ggu@gmail.com">
-<img src="https://img.shields.io/badge/vineet.ggu%40gmail.com-00D9A6?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2563EB,100:101828](https://capsule-render.vercel.app/api?type=waving\&height=100\&section=footer\&color=0:2563EB,100:101828)" width="100%" alt="Footer banner" />
 
-<a href="mailto:Vineet9949@gmail.com">
-<img src="https://img.shields.io/badge/Vineet9949%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vineet-yadav-0965881b5">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Vineet3693">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- FOOTER -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9A6,50:071B2B,100:050816&height=120&section=footer&animation=twinkling" width="100%" alt="Footer"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=00D9A6&center=true&vCenter=true&width=650&lines=Keep+Learning.;Keep+Building.;Keep+Innovating.+%F0%9F%9A%80" alt="Footer Message"/>
-
-<br/>
-
-**Made with ❤️ by Vineet Yadav**
-
-<sub>Engineering Intelligence · 2026</sub>
-
-</div>
-
-<!-- END OF README -->
+\</div>
