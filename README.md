@@ -1,57 +1,60 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=210&color=0B1220&text=VINEET%20YADAV&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=APPLIED%20AI%20%7C%20AGENTIC%20SYSTEMS%20%7C%20MACHINE%20LEARNING&descSize=15&descColor=38BDF8&descAlignY=65" alt="Vineet Yadav — AI Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:164E63,100:2563EB&text=Vineet%20Yadav&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer%20%7C%20Applied%20AI%20%7C%20Agentic%20Systems&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="Vineet Yadav header" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Building+Practical+AI+Systems;Multimodal+RAG+%7C+LLM+Applications+%7C+Agentic+AI;Research+%E2%86%92+Engineering+%E2%86%92+Real-World+Applications" alt="Animated introduction" />
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Practical+AI+Systems;Agentic+AI+%7C+RAG+%7C+Machine+Learning;Research+%2B+Engineering+%2B+Experimentation" alt="Animated introduction" />
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/Vineet3693"><img src="https://img.shields.io/badge/GitHub-Vineet3693-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:vineet.ggu@gmail.com"><img src="https://img.shields.io/badge/Email-Primary-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="mailto:Vineet9949@gmail.com"><img src="https://img.shields.io/badge/Email-Alternative-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Alternative email"/></a>
+<a href="https://github.com/Vineet3693">
+  <img src="https://img.shields.io/badge/GitHub-Vineet3693-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:vineet.ggu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Primary email" />
+</a>
+<a href="mailto:Vineet9949@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Alternative-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Alternative email" />
+</a>
 
 </div>
 
 ---
 
-## 01 / ABOUT
+## 👨‍💻 About Me
 
-AI Engineer working at the intersection of **Applied AI, Machine Learning, LLM applications, and Agentic Systems**.
+AI Engineer working across **Applied AI, Machine Learning, Agentic AI, and Retrieval-Augmented Generation (RAG)**.
 
-I build practical AI applications that connect research, models, retrieval systems, and backend engineering.
+I focus on transforming AI research and ideas into practical applications, including multimodal information retrieval, intelligent document processing, agentic workflows, and predictive machine learning.
 
-My work focuses on:
+My engineering interests include:
 
-- **Agentic AI:** Stateful workflows, orchestration, tool integration, and memory-aware systems.
-- **Multimodal RAG:** Retrieval across text, figures, tables, and mathematical content.
-- **LLM Engineering:** Model integration, prompt optimization, structured outputs, and inference workflows.
-- **Machine Learning:** Predictive modelling, computer vision, model evaluation, and explainability.
-- **AI Product Engineering:** APIs, document processing, databases, and production-oriented applications.
+- Designing AI workflows and system architectures.
+- Building LLM-powered applications and agentic systems.
+- Developing RAG and multimodal retrieval pipelines.
+- Experimenting with machine learning models and evaluation.
+- Building APIs and integrating AI into real-world applications.
 
 ---
 
-## 02 / EXPERIENCE
+## 💼 Professional Experience
 
 <table>
 <tr>
 <td width="100%">
 
 ### IIT Jodhpur
-**AI Research Intern** &nbsp;·&nbsp; `May 2026 – Present`
+**AI Research Intern** · May 2026 – Present
 
-Research and engineering on multimodal retrieval systems for scientific and complex documents.
+Working on multimodal Retrieval-Augmented Generation systems for extracting and retrieving information from complex documents.
 
-**Work & Contributions**
-
-- Developing multimodal RAG workflows for retrieving information from document text, figures, tables, and mathematical equations.
-- Exploring vision-enabled document understanding using **Qwen Vision**.
-- Building retrieval pipelines with **ChromaDB** and structured metadata management using **SQLite**.
-- Using **LangChain** and **LangGraph** for retrieval and workflow orchestration.
-- Developing modular Python components and **FastAPI** integration.
-
-**Technology:** `Python` `Qwen Vision` `LangChain` `LangGraph` `ChromaDB` `SQLite` `FastAPI`
+- Exploring retrieval across text, figures, tables, and mathematical equations.
+- Working with ChromaDB and SQLite-based metadata management.
+- Developing modular Python components and API workflows.
+- Exploring LangGraph-based orchestration for retrieval pipelines.
 
 </td>
 </tr>
@@ -59,20 +62,14 @@ Research and engineering on multimodal retrieval systems for scientific and comp
 <td width="100%">
 
 ### AgenixAI
-**DSML Intern** &nbsp;·&nbsp; `January 2025 – January 2026`
+**DSML Intern** · January 2025 – January 2026
 
-Progressed from AI Intern to DSML Intern, contributing to vision-enabled AI applications and intelligent processing workflows.
+Progressed from AI Intern to DSML Intern, contributing to AI-powered applications and intelligent processing workflows.
 
-**Work & Contributions**
-
-- Worked on food-image analysis and medical-report processing.
-- Integrated **Gemini Vision** for image understanding and **Groq** for LLM inference.
-- Developed structured AI workflows using **LangChain** and **LangGraph**.
-- Used **Pydantic** for structured data validation and workflow components.
-- Implemented stateful, memory-aware agent workflows using **MemorySaver**.
-- Contributed to prompt and response optimization, improving response quality by approximately **30–40%**.
-
-**Technology:** `Python` `Gemini Vision` `Groq` `LangChain` `LangGraph` `Pydantic` `MemorySaver`
+- Worked on food-image analysis and medical-report processing workflows.
+- Integrated vision-enabled AI capabilities and LLM-based processing.
+- Developed structured workflows using Python, Pydantic, and agentic components.
+- Contributed to prompt and response optimization, improving response quality by approximately 30–40%.
 
 </td>
 </tr>
@@ -82,17 +79,10 @@ Progressed from AI Intern to DSML Intern, contributing to vision-enabled AI appl
 ### Simtel AI
 **AI Engineer**
 
-Working on AI-powered product engineering, including the development of **ConsultLegal AI**, an AI legal research platform.
+Working on AI engineering and practical AI-powered solutions.
 
-**Work & Contributions**
-
-- Building AI-powered legal research and document-processing workflows.
-- Working on Deep Research orchestration and legal-document retrieval.
-- Integrating LLM-based research and report-generation capabilities.
-- Working across backend services, databases, and deployment infrastructure.
-- Developing local model-assisted document generation and chatbot workflows.
-
-**Technology:** `Python` `Gemini` `Ollama` `Qwen` `FastAPI` `PostgreSQL` `pgvector` `Docker`
+- Contributing to ConsultLegal AI, an AI-powered legal research platform.
+- Working across application workflows, backend integration, and AI-powered document research.
 
 </td>
 </tr>
@@ -100,149 +90,128 @@ Working on AI-powered product engineering, including the development of **Consul
 
 ---
 
-## 03 / SELECTED PROJECTS
-
-<div align="center">
-  <sub>AI SYSTEMS · RESEARCH · ENGINEERING</sub>
-</div>
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ ConsultLegal AI
+<h3>⚖️ ConsultLegal AI</h3>
+<strong>AI Legal Research Platform</strong>
 
-**AI Legal Research & Deep Research Platform**
+An AI-powered legal research platform for processing legal documents, retrieving relevant information, and generating research reports with citations.
 
-An AI-powered legal research platform designed to process legal documents, retrieve relevant information, and generate research reports with supporting citations.
+**Highlights**
+- Deep Research workflow.
+- Legal document processing and retrieval.
+- Gemini-powered research and report generation.
+- PostgreSQL with pgvector.
+- FastAPI backend and Next.js application.
+- Docker-based deployment architecture.
 
-**System capabilities**
+**Technologies**
 
-- Deep Research and query-routing workflows.
-- Legal-document processing and retrieval.
-- RAG-based legal information discovery.
-- Gemini-powered research and cited report generation.
-- Local LLM-assisted legal-document generation and chatbot workflows using **Qwen 1.7B through Ollama**.
-- Metadata-oriented observability using Langfuse Cloud.
-
-**Architecture & Stack**
-
-`Python` `Gemini` `Ollama` `Qwen 1.7B` `PostgreSQL` `pgvector` `MongoDB` `Redis` `MinIO` `FastAPI` `Next.js` `Docker Compose` `Azure` `Cloudflare` `Infisical`
+`Python` `FastAPI` `Next.js` `PostgreSQL` `pgvector` `Gemini` `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Multimodal Scientific RAG
+<h3>🧠 Multimodal RAG</h3>
+<strong>IIT Jodhpur · Document Intelligence</strong>
 
-**IIT Jodhpur · Research Project**
+A multimodal retrieval system designed to work with information distributed across complex documents.
 
-A multimodal retrieval system designed to retrieve information from scientific documents where relevant information is distributed across different content types.
+**Highlights**
+- Text, figures, tables, and equations.
+- ChromaDB vector retrieval.
+- SQLite metadata management.
+- LangGraph orchestration.
+- Modular Python architecture.
+- API-oriented system development.
 
-**System capabilities**
+**Technologies**
 
-- Retrieval across text, figures, tables, and mathematical equations.
-- Vision-enabled document understanding using Qwen Vision.
-- Vector-based semantic retrieval using ChromaDB.
-- SQLite-based metadata storage and management.
-- LangChain-based retrieval components.
-- LangGraph-based workflow orchestration.
-- Modular Python components and FastAPI integration.
-
-**Architecture & Stack**
-
-`Python` `Qwen Vision` `LangChain` `LangGraph` `ChromaDB` `SQLite` `FastAPI`
+`Python` `LangGraph` `ChromaDB` `SQLite` `FastAPI`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ FIP — AgenixAI
+<h3>🍽️ FIP — AgenixAI</h3>
+<strong>Food Image & Medical Report Processing</strong>
 
-**Food Image & Medical Report Processing**
+An AI-powered workflow combining image understanding and medical-report processing.
 
-An AI workflow combining image understanding, LLM inference, structured processing, and stateful agent components.
+**Highlights**
+- Food-image analysis.
+- Medical-report processing.
+- Vision-enabled AI integration.
+- Structured LLM workflows.
+- Pydantic-based data handling.
+- Memory-aware agent workflows.
 
-**System capabilities**
+**Technologies**
 
-- Food-image analysis using vision-enabled AI.
-- Medical-report processing workflows.
-- Gemini Vision integration for image understanding.
-- Groq-powered LLM inference.
-- LangChain and LangGraph workflow components.
-- Pydantic-based structured data handling.
-- MemorySaver-based stateful workflow management.
-
-**Architecture & Stack**
-
-`Python` `Gemini Vision` `Groq` `LangChain` `LangGraph` `Pydantic` `MemorySaver`
+`Python` `Gemini Vision` `Groq` `LangChain` `LangGraph` `Pydantic`
 
 </td>
 <td width="50%" valign="top">
 
-### 🩻 MURA Radiology Classification
+<h3>🩻 MURA Radiology</h3>
+<strong>Ganpat University · Deep Learning</strong>
 
-**Ganpat University · Deep Learning Research**
+A radiograph classification research project using the MURA dataset.
 
-A deep learning-based radiograph classification project using the MURA dataset to classify radiographs across seven anatomical categories.
+**Highlights**
+- 40,561 radiographs.
+- Seven anatomical categories.
+- InceptionV3-based classification.
+- Grad-CAM model interpretability.
+- **92.99% accuracy**
+- **0.9928 AUC**
 
-**Dataset & Results**
+**Technologies**
 
-- **40,561** radiographs.
-- **7** anatomical categories.
-- InceptionV3-based classification model.
-- Grad-CAM for visual model interpretability.
-- **92.99%** classification accuracy.
-- **0.9928** AUC.
-
-**Architecture & Stack**
-
-`Python` `TensorFlow` `Keras` `InceptionV3` `Grad-CAM` `Computer Vision`
+`Python` `TensorFlow` `Keras` `InceptionV3` `Grad-CAM`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Vital AI
+<h3>📊 Vital AI</h3>
+<strong>Machine Learning & Predictive Analytics</strong>
 
-**Predictive Machine Learning & Explainability**
+A separate machine learning project focused on predictive modelling and data-driven analysis.
 
-A machine learning project involving feature engineering, predictive modelling, anomaly detection, and model interpretation.
+**Highlights**
+- 2,485 records.
+- 11 base features and 5 engineered features.
+- XGBoost classification.
+- **98.39% test accuracy**
+- **0.9756 Macro F1**
+- Isolation Forest and SHAP analysis.
 
-**Dataset & Results**
+**Technologies**
 
-- **2,485** records.
-- 11 base features.
-- 5 engineered features.
-- XGBoost classification model.
-- **98.39%** test accuracy.
-- **0.9756** Macro F1-score.
-- Isolation Forest for anomaly detection.
-- SHAP for model explainability.
-
-**Architecture & Stack**
-
-`Python` `XGBoost` `Scikit-learn` `Isolation Forest` `SHAP` `Feature Engineering`
+`Python` `XGBoost` `Scikit-learn` `SHAP`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 Engineering Focus
+<h3>🔬 Applied AI Engineering</h3>
+<strong>Research & System Development</strong>
 
-**Applied AI & Intelligent Systems**
+An ongoing focus on building and evaluating practical AI systems.
 
-My broader engineering focus is on turning AI capabilities into reliable software systems.
-
-**Technical focus**
-
-- LLM-powered application development.
-- Agentic workflow architecture.
-- Multimodal document understanding.
-- Retrieval and knowledge systems.
-- Model evaluation and optimization.
-- API-oriented AI integration.
-- Practical deployment and infrastructure.
+**Focus Areas**
+- LLM application development.
+- Agentic workflow design.
+- Retrieval and document intelligence.
+- Machine learning experimentation.
+- Model evaluation and interpretability.
+- API and application integration.
 
 </td>
 </tr>
@@ -250,11 +219,13 @@ My broader engineering focus is on turning AI capabilities into reliable softwar
 
 ---
 
-## 04 / TECHNOLOGY ECOSYSTEM
+## 🧰 Technology Stack
 
 <div align="center">
 
-<sub>Only Python is listed as the primary programming language. Other technologies are grouped by their engineering role.</sub>
+**Primary Programming Language**
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" height="52" alt="Python" />
 
 </div>
 
@@ -262,84 +233,60 @@ My broader engineering focus is on turning AI capabilities into reliable softwar
 <tr>
 <td width="50%" valign="top">
 
-### 01 — Programming
+### 🤖 Machine Learning & Computer Vision
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
-
-**Python**
-
-</td>
-<td width="50%" valign="top">
-
-### 02 — Machine Learning & Vision
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ML technologies"/>
-
-`Keras` `Scikit-learn` `YOLO` `XGBoost` `SHAP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 — Generative & Agentic AI
-
-<img src="https://skillicons.dev/icons?i=github&theme=dark" alt="AI engineering"/>
-
-`Gemini` `Groq` `OpenAI` `Hugging Face`
-
-`LangChain` `LangGraph` `RAG` `MemorySaver`
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLO-111827?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
-### 04 — Vector Search & Databases
+### 🧠 Generative & Agentic AI
 
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="Databases"/>
-
-`ChromaDB` `FAISS` `PostgreSQL` `pgvector`
-
-`SQLite` `MongoDB` `Redis` `MinIO`
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 05 — Backend & APIs
+### 🔎 Vector Search & Databases
 
-<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="Backend"/>
-
-`FastAPI` `Pydantic`
+<img src="https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square" />
 
 </td>
 <td width="50%" valign="top">
 
-### 06 — Application Development
+### ⚙️ Backend & Application Development
 
-<img src="https://skillicons.dev/icons?i=nextjs,streamlit&theme=dark" alt="Application development"/>
-
-`Next.js` `Streamlit`
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2">
 
-### 07 — Infrastructure & Deployment
+### 🛠️ Development & Deployment
 
-<img src="https://skillicons.dev/icons?i=docker,azure,cloudflare&theme=dark" alt="Infrastructure"/>
-
-`Docker` `Docker Compose` `Azure` `Cloudflare` `Infisical`
-
-</td>
-<td width="50%" valign="top">
-
-### 08 — Development & Observability
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Development tools"/>
-
-`Git` `GitHub` `Langfuse`
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
 </td>
 </tr>
@@ -347,38 +294,51 @@ My broader engineering focus is on turning AI capabilities into reliable softwar
 
 ---
 
-## 05 / GITHUB ANALYTICS
+## 📈 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/Vineet3693">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vineet3693&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&cache_seconds=86400" alt="GitHub statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vineet3693&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/Vineet3693">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Vineet3693&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=Vineet3693&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/Vineet3693">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet3693&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&cache_seconds=86400" alt="Most used languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineet3693&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages" />
+</a>
+<a href="https://github.com/Vineet3693">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vineet3693&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet3693&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vineet3693&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+
+<br/>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vineet3693&theme=tokyonight" alt="GitHub profile summary" />
 
 </div>
 
 ---
 
-## 06 / CONNECT
+## 🤝 Connect
 
 <div align="center">
 
-<a href="https://github.com/Vineet3693"><img src="https://img.shields.io/badge/GitHub-Vineet3693-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:vineet.ggu@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="mailto:Vineet9949@gmail.com"><img src="https://img.shields.io/badge/Alternative_Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Alternative email"/></a>
+<a href="https://github.com/Vineet3693">
+  <img src="https://img.shields.io/badge/GitHub-Vineet3693-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="mailto:vineet.ggu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vineet.ggu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="mailto:Vineet9949@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Vineet9949%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Alternative email" />
+</a>
 
 <br/><br/>
 
@@ -386,6 +346,6 @@ My broader engineering focus is on turning AI capabilities into reliable softwar
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0B1220" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:2563EB,100:0F172A" width="100%" alt="Footer" />
 
 </div>
