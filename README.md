@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:164E63,100:2563EB&text=Vineet%20Yadav&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer%20%7C%20Applied%20AI%20%7C%20Agentic%20Systems&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="Vineet Ydav header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:164E63,100:2563EB&text=Vineet%20Yadav&fontSize=58&fontColor=FFFFFF&fontAlignY=42&desc=AI%20Engineer%20%7C%20Applied%20AI%20%7C%20Agentic%20Systems&descSize=17&descAlignY=62&animation=fadeIn" width="100%" alt="Vineet Yadav header" />
 
 <br/>
 
